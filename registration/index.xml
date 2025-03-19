@@ -6,6 +6,6 @@
     <description>Recent content in Registration on my-abstract.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/registration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="../registration/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -6,6 +6,6 @@
     <description>Recent content in Contact Us on my-abstract.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="../contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

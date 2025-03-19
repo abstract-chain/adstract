@@ -6,6 +6,6 @@
     <description>Recent content in Cookie Policy on my-abstract.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/cookie-policy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="../cookie-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

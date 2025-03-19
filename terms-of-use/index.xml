@@ -6,6 +6,6 @@
     <description>Recent content in Terms of Use on my-abstract.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/terms-of-use/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="../terms-of-use/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
